@@ -1,3 +1,4 @@
+<img width="1868" height="701" alt="Screenshot 2025-12-30 192607" src="https://github.com/user-attachments/assets/c880e604-f0ee-48f5-8d4e-7a763cacc5d4" />
 # Egyptian Sales Analysis Dashboard 📊
 
 ## 📝 Project Overview
